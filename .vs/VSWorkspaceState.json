@@ -1,6 +1,17 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Applications\\Microsoft",
+    "\\Applications\\Microsoft\\Teams\\MachineWide",
+    "\\Diagnostics\\cmtrace",
+    "\\Hardware\\Surface",
+    "\\Hardware\\Surface\\Surface Laptop SE",
+    "\\Hardware\\Surface\\Surface Laptop SE\\Managed Installer",
+    "\\Hardware\\Surface\\Surface Laptop SE\\Optimizations",
+    "\\Windows Desktop\\Fileshare Mapping",
+    "\\Windows Desktop\\Fileshare Mapping\\Legacy Mapping",
+    "\\Windows Desktop\\Start Menu Modifications"
   ],
+  "SelectedNode": "\\Hardware",
   "PreviewInSolutionExplorer": false
 }
