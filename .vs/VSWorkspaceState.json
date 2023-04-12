@@ -1,17 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Applications\\Microsoft",
-    "\\Applications\\Microsoft\\Teams\\MachineWide",
-    "\\Diagnostics\\cmtrace",
+    "\\Hardware",
     "\\Hardware\\Surface",
     "\\Hardware\\Surface\\Surface Laptop SE",
     "\\Hardware\\Surface\\Surface Laptop SE\\Managed Installer",
-    "\\Hardware\\Surface\\Surface Laptop SE\\Optimizations",
-    "\\Windows Desktop\\Fileshare Mapping",
-    "\\Windows Desktop\\Fileshare Mapping\\Legacy Mapping",
-    "\\Windows Desktop\\Start Menu Modifications"
+    "\\Hardware\\Surface\\Surface Laptop SE\\Managed Installer\\Education Publishers",
+    "\\Hardware\\Surface\\Surface Laptop SE\\Managed Installer\\Powershell Scripts",
+    "\\Hardware\\Surface\\Surface Laptop SE\\Managed Installer\\Proactive Remediations",
+    "\\Hardware\\Surface\\Surface Laptop SE\\Managed Installer\\XML and BIN",
+    "\\Hardware\\Surface\\Surface Laptop SE\\Optimizations"
   ],
-  "SelectedNode": "\\Hardware",
+  "SelectedNode": "\\Hardware\\Surface\\Surface Laptop SE\\Managed Installer\\Proactive Remediations\\V2",
   "PreviewInSolutionExplorer": false
 }
