@@ -1,8 +1,22 @@
 {
   "ExpandedNodes": [
     "",
+<<<<<<< HEAD
     "\\Hardware"
   ],
   "SelectedNode": "\\Hardware\\Dell",
+=======
+    "\\Hardware",
+    "\\Hardware\\Surface",
+    "\\Hardware\\Surface\\Surface Laptop SE",
+    "\\Hardware\\Surface\\Surface Laptop SE\\Managed Installer",
+    "\\Hardware\\Surface\\Surface Laptop SE\\Managed Installer\\Education Publishers",
+    "\\Hardware\\Surface\\Surface Laptop SE\\Managed Installer\\Powershell Scripts",
+    "\\Hardware\\Surface\\Surface Laptop SE\\Managed Installer\\Proactive Remediations",
+    "\\Hardware\\Surface\\Surface Laptop SE\\Managed Installer\\XML and BIN",
+    "\\Hardware\\Surface\\Surface Laptop SE\\Optimizations"
+  ],
+  "SelectedNode": "\\Hardware\\Surface\\Surface Laptop SE\\Managed Installer\\Proactive Remediations\\V2",
+>>>>>>> 0b78fc3273e0613a74b4426d03b5b7dfd620c3f3
   "PreviewInSolutionExplorer": false
 }
