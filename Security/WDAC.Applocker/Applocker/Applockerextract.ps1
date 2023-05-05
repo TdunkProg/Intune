@@ -1,0 +1,1 @@
+Get-ChildItem ${env:ProgramFiles(x86)}'\Microsoft Intune Management Extension\Microsoft.Management.Services.IntuneWindowsAgent.exe' | Get-AppLockerFileInformation | New-AppLockerPolicy -RuleType Publisher -User Everyone -Xml > AppLocker_MI_PS_ISE.xml
