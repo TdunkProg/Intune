@@ -1,13 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Device Management",
-    "\\Hardware",
-    "\\Hardware\\All Devices",
-    "\\Hardware\\All Devices\\Optimizations",
-    "\\Hardware\\All Devices\\Optimizations\\Proactive Remediations",
-    "\\Hardware\\All Devices\\Optimizations\\Proactive Remediations\\EducationAppRemoval"
+    ""
   ],
-  "SelectedNode": "\\Hardware\\All Devices\\Optimizations\\Proactive Remediations\\EducationAppRemoval",
+  "SelectedNode": "\\C:\\Users\\tyler\\Source\\Repos\\TdunkProg\\Intune",
   "PreviewInSolutionExplorer": false
 }
